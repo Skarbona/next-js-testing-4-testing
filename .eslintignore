@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# History files (VS Code extension)
+.history/
+
+# Environment files
+.env*
+
+# Database
+*.db
+*.sqlite
+
+# Config files
+*.config.js
+*.config.mjs
